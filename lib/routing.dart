@@ -1,7 +1,7 @@
 import 'package:flutter/widgets.dart';
 import 'package:go_router/go_router.dart';
-import 'package:open_meteo/detailed_forecast.dart/detailed_forecast.dart';
-import 'package:open_meteo/detailed_forecast.dart/detailed_forecast_dependencies.dart';
+import 'package:open_meteo/detailed_forecast/detailed_forecast.dart';
+import 'package:open_meteo/detailed_forecast/detailed_forecast_dependencies.dart';
 import 'package:open_meteo/home/home_screen.dart';
 import 'package:open_meteo/home/home_screen_dependencies.dart';
 import 'package:open_meteo/location/location_service.dart';

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:open_meteo/detailed_forecast.dart/detailed_forecast_dependencies.dart';
+import 'package:open_meteo/detailed_forecast/detailed_forecast_dependencies.dart';
 
 class DetailedForecast extends StatefulWidget {
   const DetailedForecast({super.key});
